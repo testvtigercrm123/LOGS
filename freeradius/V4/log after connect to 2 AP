@@ -1,3 +1,4 @@
+```bash
 Tue May 22 11:46:33 2018 : network read
 Tue May 22 11:46:33 2018 : proto_radius_udp - Received Accounting-Request ID 72 length 262 proto udp server * port 1813
 Tue May 22 11:46:33 2018 : Network received packet size 262
@@ -3546,3 +3547,4 @@ Tue May 22 11:47:07 2018 : rlm_eap_gtc unloaded.  Handle address 0x2964d90, symb
 Tue May 22 11:47:07 2018 : rlm_eap_md5 unloaded.  Handle address 0x2963f50, symbol address 0x7fcd5bf73160
 Tue May 22 11:47:07 2018 : rlm_eap unloaded.  Handle address 0x29615b0, symbol address 0x7fcd5c38f360
 Tue May 22 11:47:07 2018 : rlm_unpack unloaded.  Handle address 0x2960310, symbol address 0x7fcd5c5930e0
+```
